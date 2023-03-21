@@ -23,8 +23,22 @@
 
 ## Details
 
-![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chrg1001&theme=discord_old_blurple)
-![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chrg1001&theme=discord_old_blurple)
-![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chrg1001&theme=discord_old_blurple)
-![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chrg1001&theme=discord_old_blurple)
-![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chrg1001&theme=discord_old_blurple&utcOffset=8)
+
+[![](https://raw.githubusercontent.com/chrg1001/chrg1001/main/profile-summary-card-output/discord_old_blurple/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/chrg1001/chrg1001/main/profile-summary-card-output/discord_old_blurple/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/chrg1001/chrg1001/main/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/chrg1001/chrg1001/main/profile-summary-card-output/discord_old_blurple/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/chrg1001/chrg1001/main/profile-summary-card-output/discord_old_blurple/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+## Languages
+
+      <a
+        href="https://www.typescriptlang.org/"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+          alt="typescript"
+          width="40"
+          height="40"
+        />
+      </a>
