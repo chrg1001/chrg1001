@@ -15,9 +15,9 @@
 
 ## Stats
 
-![](https://github-readme-stats.vercel.app/api?username=chrg1001&theme=discord_old_blurple&hide_border=false&show_icons=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=chrg1001&theme=discord_old_blurple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chrg1001&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](./profile-summary-card-output/discord_old_blurple/0-profile-details.svg)
+![](./profile-summary-card-output/discord_old_blurple/1-repos-per-language.svg) ![](./profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg)
+![](./profile-summary-card-output/discord_old_blurple/3-stats.svg) ![](./profile-summary-card-output/discord_old_blurple/4-productive-time.svg)
 
 ## Languages and Tools
 
@@ -41,8 +41,8 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=chrg1001&theme=discord&rank=-C,-B)
 
-## Details
+## Public
 
-![](./profile-summary-card-output/discord_old_blurple/0-profile-details.svg)
-![](./profile-summary-card-output/discord_old_blurple/1-repos-per-language.svg) ![](./profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg)
-![](./profile-summary-card-output/discord_old_blurple/3-stats.svg) ![](./profile-summary-card-output/discord_old_blurple/4-productive-time.svg)
+![](https://github-readme-stats.vercel.app/api?username=chrg1001&theme=discord_old_blurple&hide_border=false&show_icons=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=chrg1001&theme=discord_old_blurple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chrg1001&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
