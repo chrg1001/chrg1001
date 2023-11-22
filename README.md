@@ -19,6 +19,10 @@
 ![](./profile-summary-card-output/discord_old_blurple/1-repos-per-language.svg) ![](./profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg)
 ![](./profile-summary-card-output/discord_old_blurple/3-stats.svg) ![](./profile-summary-card-output/discord_old_blurple/4-productive-time.svg)
 
+## Contributions Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chrg1001&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## Languages and Tools
 
 <p>
