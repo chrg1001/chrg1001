@@ -13,8 +13,6 @@
   </a>
 </p>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cyq4kzy4e6isqfeofhmqkmeace&count=1&unique=true)
-
 ### Stats
 
 ![](./profile-summary-card-output/discord_old_blurple/0-profile-details.svg)
@@ -65,3 +63,7 @@
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg) -->
+
+---
+
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31cyq4kzy4e6isqfeofhmqkmeace&count=1&unique=true)
