@@ -1,8 +1,8 @@
-name: GitHub Profile Cards for Public Repos
+name: Profile Stats Cards (Public Only)
 
 on:
-  schedule: # execute every 24 hours
-    - cron: "0 0 * * *"
+  schedule:
+    - cron: "0 0 * * *" # Daily at 00:00 UTC
   workflow_dispatch:
 
 concurrency:
@@ -16,10 +16,13 @@ defaults:
     shell: bash
 
 jobs:
-  build:
+  generate-cards:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6.0.1
+      - name: Checkout repository
+        uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6.0.1
 
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@b9704a1adc3351f7c72a154198626925c8860fac # v1.0.0
@@ -45,10 +48,10 @@ jobs:
           path: profile/pin-readme-tools-github-readme-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit cards
+      - name: Commit and push cards
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
           git add profile/*.svg
-          git commit -m "Update README cards" || exit 0
+          git commit -m "Update profile stats cards" || exit 0
           git push
