@@ -1,8 +1,8 @@
 name: Profile Stats Cards (Public Only)
 
 on:
-  schedule:
-    - cron: "0 0 * * *" # Daily at 00:00 UTC
+  # schedule:
+  #   - cron: "0 0 * * *" # Daily at 00:00 UTC
   workflow_dispatch:
 
 concurrency:

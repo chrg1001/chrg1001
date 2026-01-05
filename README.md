@@ -60,8 +60,8 @@
 
 ![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=chrg1001&theme=discord&rank=-C,-B,-UNKNOWN)
 
-### Public
+<!-- ### Public
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg) -->
