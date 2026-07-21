@@ -32,13 +32,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/chrg1001/chrg1001/main/profile-summary-card-output/slateorange/4-productive-time.svg)
-```
-
-    
